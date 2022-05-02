@@ -27,4 +27,4 @@ Given the above statistics, we have the following recommendations:
 - Increase the number of available driviers in rural cities. Rural citites saw high individual fares, and high fares per driver. The lack of available drivers could be creating lost revenue.
 - Increasing the available drivers in suburban cities may help to increase those fare totals as those areas saw higher individual fares, and lower overall fares which could be a result of driver unavailability.
 - Urban rideshares are doing well and no changes are recommended.
-![Scatter chart here](https://github.com/mmdemars/PyBer_Analysis/blob/main/analysis/Fig1.png?raw=true)
+![Summary chart here](https://github.com/mmdemars/PyBer_Analysis/blob/main/analysis/Pyber_fare_summary.png?raw=true)
